@@ -1,0 +1,11 @@
+[package]
+name = "rust101"
+version = "0.1.0"
+authors = ["Pascal Hertleif <pascal@technocreatives.com>"]
+edition = "2018"
+
+[[bin]]
+name = "cheat-sheet"
+path = "./cheat-sheet.rs"
+
+[dependencies]
